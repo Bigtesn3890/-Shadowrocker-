@@ -1,4 +1,5 @@
 # NAME: Zenless Zone Zero
 # REPO: https://github.com/Bigtesn3890/-Shadowrocker-/tree/main
 DOMAIN-SUFFIX,prod-gf-jp.zenlesszonezero.com
-DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com:443
+DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
+DOMAIN-SUFFIX,globaldp-prod-os01.zenlesszonezero.com
