@@ -3,3 +3,4 @@
 DOMAIN-SUFFIX,prod-gf-jp.zenlesszonezero.com
 DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
 DOMAIN-SUFFIX,globaldp-prod-os01.zenlesszonezero.com
+DOMAIN-SUFFIX,globaldp-prod-os02.zenlesszonezero.com:443
