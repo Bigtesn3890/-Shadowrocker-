@@ -4,8 +4,9 @@ DOMAIN-SUFFIX,prod-gf-jp.zenlesszonezero.com
 DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
 DOMAIN-SUFFIX,globaldp-prod-os01.zenlesszonezero.com
 DOMAIN-SUFFIX,globaldp-prod-os02.zenlesszonezero.com
-IP-CIDR,10.177.0.210/32
-IP-CIDR,23.23.4.242/32
+DOMAIN-SUFFIX,gzojau-inapps.appsflyersdk.com
 DOMAIN-SUFFIX,gzojau-launches.appsflyersdk.com
 DOMAIN-SUFFIX,graph.facebook.com
+IP-CIDR,10.177.0.210/32
+IP-CIDR,23.23.4.242/32
 DOMAIN-KEYWORD,zenlesszonezero.com
