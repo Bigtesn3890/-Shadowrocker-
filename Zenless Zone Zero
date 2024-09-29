@@ -6,8 +6,6 @@ DOMAIN-SUFFIX,globaldp-prod-os01.zenlesszonezero.com
 DOMAIN-SUFFIX,globaldp-prod-os02.zenlesszonezero.com
 DOMAIN-SUFFIX,gzojau-inapps.appsflyersdk.com
 DOMAIN-SUFFIX,gzojau-launches.appsflyersdk.com
-DOMAIN-SUFFIX,graph.facebook.com
-DOMAIN-SUFFIX,firebaselogging.googleapis.com
 IP-CIDR,10.177.0.210/32,no-resolve
 IP-CIDR,23.23.4.242/32,no-resolve
 DOMAIN-KEYWORD,zenlesszonezero.com
