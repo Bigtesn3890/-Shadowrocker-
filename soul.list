@@ -1,4 +1,5 @@
 #我给你写了一个，去试试
+#Soul
 
 DOMAIN-SUFFIX,soulapp.cn
 DOMAIN-SUFFIX,img.soulapp.cn
@@ -8,7 +9,7 @@ DOMAIN-SUFFIX,soulzone.cn
 DOMAIN-SUFFIX,soulsns.com
 DOMAIN-SUFFIX,soulcdn.cn
 DOMAIN-KEYWORD,soul
-尝试加上这些规则：IP-CIDR,8.210.3.170/32
+IP-CIDR,8.210.3.170/32
 IP-CIDR,43.231.145.10/32
 IP-CIDR,47.75.72.47/32
 IP-CIDR,47.96.7.91/32
