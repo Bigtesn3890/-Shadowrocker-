@@ -1,4 +1,4 @@
-机场一览表（2024年09月24日编辑，会声明该机场部分流媒体、游戏、AI工具是否可用，没说就是可以或者没测）
+机场一览表（会声明该机场部分流媒体、游戏、AI工具是否可用，没说就是可以或者没测）
 这是我编写的配置文件：
 https://raw.githubusercontent.com/Bigtesn3890/-Shadowrocker-/refs/heads/main/Proxy_Pro.conf
 
