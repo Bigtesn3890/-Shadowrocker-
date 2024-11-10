@@ -30,14 +30,17 @@ https://starlinkcloud.lol/#/dashboard
 有直连节点与中转节点
 包含部分小众国家
 
+https://zhoushuren.me/#/dashboard
+鲁迅旗下的周树人机场，文化人都在用的机场
+美国部分节点无法使用ChatGPT
+
+
 我还没用过的机场：
 5、可莉
 6、http://www.huojian.homes
 想不到居然有一个月不限量的
 7、https://xianyuwangluo.top/#/dashboard
 8、https://fengqun.io/
-9、https://zhoushuren.me/#/dashboard
-鲁迅旗下的周树人机场，文化人都在用的机场
 10、https://cdn.ednovas.org/#/stage/dashboard
 11、https://qiang3.tutunbyy.uk/#/dashboard
 12、https://juzi000.net/auth/login
