@@ -3,4 +3,5 @@
 DOMAIN-SUFFIX,download-baishan.catmjstudio.com
 DOMAIN-SUFFIX,gateway-hw.catmjstudio.com
 DOMAIN-SUFFIX,lb-hw.catmjstudio.com
+DOMAIN-KEYWORD,catmjstudio.com
 IP-CDIR,23.23.233.181/32,no-resolve
