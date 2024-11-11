@@ -2,4 +2,5 @@
 #第一行这玩意有点不是很完善
 DOMAIN-SUFFIX,download-baishan.catmjstudio.com
 DOMAIN-SUFFIX,gateway-hw.catmjstudio.com
+DOMAIN-SUFFIX,lb-hw.catmjstudio.com
 IP-CDIR,23.23.233.181/32,no-resolve
