@@ -1,4 +1,5 @@
 # NAME:对峙2
 # REPO: https://github.com/Bigtesn3890/-Shadowrocker-/tree/main
 DOMAIN-SUFFIX,report.appmetrica.yandex.net
+DOMAIN-SUFFIX,d.applovin.com
 IP-CORD,23.23.224.235/32,no-resolve
