@@ -2,4 +2,5 @@
 # REPO: https://github.com/Bigtesn3890/-Shadowrocker-/tree/main
 DOMAIN-SUFFIX,report.appmetrica.yandex.net
 DOMAIN-SUFFIX,d.applovin.com
+DOMAIN-SUFFIX,server.boltgaming.io
 IP-CORD,23.23.224.235/32,no-resolve
