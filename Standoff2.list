@@ -1,8 +1,9 @@
 # NAME:对峙2
 # REPO: https://github.com/Bigtesn3890/-Shadowrocker-/tree/main
-DOMAIN-SUFFIX,report.appmetrica.yandex.net
 DOMAIN-SUFFIX,a.applvn.com:443
 DOMAIN-SUFFIX,d.applovin.com
 DOMAIN-SUFFIX,ms.applovin.com
 DOMAIN-SUFFIX,server.boltgaming.io
 IP-CORD,23.23.224.235/32,no-resolve
+IP-CORD,194.99.79.148/32,no-resolve
+IP-CORD,194.99.80.122/32,no-resolve
