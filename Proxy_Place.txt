@@ -1,6 +1,4 @@
 机场一览表（会声明该机场部分流媒体、游戏、AI工具是否可用，没说就是可以或者没测）
-这是我编写的配置文件：
-https://raw.githubusercontent.com/Bigtesn3890/-Shadowrocker-/refs/heads/main/Proxy_Pro.conf
 
 
 我用过的机场：
@@ -22,6 +20,7 @@ https://caiyun.wiki/#/dashboard
 
 https://board.mirror.gtk.pw/#/dashboard
 一坨屎，但能玩游戏
+节点名字很抽象，用正则筛选节点的有福了
 
 https://starlinkcloud.lol/#/dashboard
 18块钱一个月100GB
@@ -32,8 +31,9 @@ https://starlinkcloud.lol/#/dashboard
 
 https://zhoushuren.me/#/dashboard
 鲁迅旗下的周树人机场，文化人都在用的机场
-美国部分节点无法使用ChatGPT
-币安走香港依旧是中国
+最后一次使用时美国部分节点无法使用ChatGPT
+部分节点币安走香港依旧是中国
+最后一次使用是日本部分节点无法使用abema
 
 
 我还没用过的机场：
