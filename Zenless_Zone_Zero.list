@@ -12,4 +12,5 @@ IP-CIDR,23.23.254.179/32,no-resolve
 IP-CIDR,23.23.193.210/32,no-resolve
 IP-CIDR,8.221.148.14/32,no-resolve
 IP-CIDR,8.221.147.187/32,no-resolve
+IP-CIDR,8.221.148.104/32,no-resolve
 DOMAIN-KEYWORD,zenlesszonezero.com
