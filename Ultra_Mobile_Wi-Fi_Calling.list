@@ -1,4 +1,5 @@
 #懒得写备注就这样吧
+[Rule]
 DOMAIN-SUFFIX,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
@@ -7,3 +8,10 @@ DOMAIN-SUFFIX,eas3.msg.t-mobile.com
 DOMAIN-SUFFIX,redirect.ultra.me
 DOMAIN-SUFFIX,ultramobile.com
 DOMAIN-SUFFIX,optimizely.com
+
+[Host]
+*.ultra.me = server:199.85.126.10
+*.optimizely.com = server:199.85.126.10
+*.ultramobile.com = server:199.85.126.10
+*.t-mobile.com = server:199.85.126.10
+*.3gppnetwork.org = server:199.85.126.10
