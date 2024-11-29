@@ -1,3 +1,7 @@
 #有些微信小程序用着的时候直接立正了
+#你可以搭配以下规则集一起用
+#https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMax/ChinaMax.list
+#还有微信的规则集
+#https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Shadowrocket/WeChat/WeChat.list
 #完美校园
 DOMAIN-SUFFIX,wechatmini.59wanmei.com
