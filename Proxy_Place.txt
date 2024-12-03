@@ -7,34 +7,34 @@
 
 
 我用过的机场：
-https://dashboard.ouonet.work/dashboard
+1、https://dashboard.ouonet.work/dashboard
 11元100GB
 最后一次使用时土耳其不能使用Netflix
 有免费emby
 不能打游戏
 每日签到可领取流量
 
-https://www.google.com.hk/search?q=efcloud机场&client=safari&sca_esv=3cd07ac50fd5c89b&hl=zh-hans-us&sxsrf=ADLYWIJkHpmj6KuzfRsI7Iw6BNS14WlIxw%3A1725200718444&ei=TnnUZpjmGpDp1e8PxN60sAc&oq=efcloud机场&gs_lp=EhNtb2JpbGUtZ3dzLXdpei1zZXJwIg1lZmNsb3Vk5py65Zy6MgoQABiwAxjWBBhHMgoQABiwAxjWBBhHMgoQABiwAxjWBBhHSMo-UKoWWIEZcAJ4A5ABAZgBhgOgAYQGqgEFMS4zLTK4AQPIAQD4AQGYAgWgAuICwgIEEAAYR5gDAOIDBRIBMSBAiAYBkAYDkgcFNC4zLTGgB7EJ&sclient=mobile-gws-wiz-serp
+2、https://www.efc1.net/login
 8元每月100GB
 能打游戏
 没遇到未解锁情况
 包含部分小众国家
 
-https://caiyun.wiki/#/dashboard
+3、https://caiyun.wiki/#/dashboard
 屎
 
-https://board.mirror.gtk.pw/#/dashboard
+4、https://board.mirror.gtk.pw/#/dashboard
 一坨屎，但能玩游戏
 节点名字很抽象，用正则筛选节点的有福了
 
-https://starlinkcloud.lol/#/dashboard
+5、https://starlinkcloud.lol/#/dashboard
 18块钱一个月100GB
 最后一次使用时日本无法使用Abema
 能打游戏
 有直连节点与中转节点
 包含部分小众国家
 
-https://zhoushuren.me/#/dashboard
+6、https://zhoushuren.me/#/dashboard
 鲁迅旗下的周树人机场，文化人都在用的机场
 最后一次使用时美国部分节点无法使用ChatGPT
 部分节点币安走香港依旧是中国
@@ -42,11 +42,11 @@ https://zhoushuren.me/#/dashboard
 有些节点不能打游戏WTF😨
 还挺多国家的，还能回中国
 
-https://cdn.ednovas.org/#/stage/dashboard
+7、https://cdn.ednovas.org/#/stage/dashboard
 流量有点少没怎么用就用完了，所以不知道好不好用😁
 
 我还没用过的机场：
-1、可莉
+1、https://11.kle.jp
 2、http://www.huojian.homes
 想不到居然有一个月不限量的
 3、https://xianyuwangluo.top/#/dashboard
@@ -55,7 +55,8 @@ https://cdn.ednovas.org/#/stage/dashboard
 6、https://juzi000.net/auth/login
 7、https://glados.one/login
 8、http://webinv01.sc-aff.cc/节点auth/login
-9、https://tagss04.pro/#/auth/
+9、https://tagss.pro/
+大名鼎鼎TAG
 10、https://91jc01.com/#/dashboard
 11、https://boostnet.top/#/login
 12、https://okokcloud.net/#/login
@@ -65,43 +66,39 @@ https://cdn.ednovas.org/#/stage/dashboard
 16、https://c.subconverter.org/goto/jfcloud/
 17、https://ctzcloud.net/
 18、https://cylink.skin/user
-19、奶昔
+19、https://nexitallysafe.com/
 20、https://v3.ocloud.cc/auth/register?code=06854b7211
 21、https://mmyadmin.github.io/
 22、https://www.jinglongyu
 23、https://xn--mesx36n.net/#/register?code=OptStyxq
 白菜价，名字叫鸡场
-31、https://cloudfisher.net/web/#/login?code=b7MqJ8H6
+24、https://cloudfisher.net/web/#/login?code=b7MqJ8H6
 好像还挺便宜的，5块钱一个月
-32、https://www.westerndigital.com/zh-cn
+25、https://www.westerndigital.com/zh-cn
 看见大名鼎鼎的西部数据还不跪下？等你有问题的时候，客服是永远找不到的，所以要跪下来求客服帮你解决问题
-33、全体起立，大名鼎鼎ACA
-https://www.aca.best/#/login
-34、bitz - Google 搜索
+26、https://www.aca.best/#/login
+全体起立，大名鼎鼎ACA
+27、https://www.bitzconnect.com/
 听说用TAG的冗余线路😋
-35、Wgetcloud
-36、魔戒.net
+28、Wgetcloud
+29、魔戒.net
 经典1元机场
-37、蛋挞云
-38、搬瓦工
-39、https://www.hneko.world/
-40、https://xn--mesz9ptugxg.com/#/register?code=OQoxveLm
-41、Yukihasu
+30、蛋挞云
+31、搬瓦工
+32、https://www.hneko.world/
+33、https://xn--mesz9ptugxg.com/#/register?code=OQoxveLm
+34、Yukihasu
 4块钱100GB你还想怎么样！
-42、https://byg.zzxuh.com/#/dashboard
+35、https://byg.zzxuh.com/#/dashboard
 白月光，最近炸了几次（2024/08/11编辑），用户叫苦连天，油管不良林推荐，但我认为这是乱鸡巴推荐
-43、库洛米
-44、花云
-45、http://znetvpn.com
-46、https://quickline.top/
-47、cornSS
-48、https://fnff.top/auth/register
-49、https://mxwljsq.xyz/auth/register
-https://www.squirrelvpn.com/
-
-禁止使用（跑路机场）
-https://ovocloud.pub/#/register
-https://t.co/WCV0A4N7OK?ssr=true
-X上看广告看到的
+36、库洛米
+37、花云
+38、http://znetvpn.com
+39、https://quickline.top/
+40、cornSS
+41、https://fnff.top/auth/register
+42、https://mxwljsq.xyz/auth/register
+43、https://www.squirrelvpn.com/
+44、https://belkavpn.com/
 
 ！请注意，我仅收集节点，不保证可用！
