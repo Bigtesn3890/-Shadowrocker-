@@ -1,4 +1,0 @@
-#闲着无聊写的
-DOMAIN-SUFFIX,auth.uber.com
-DOMAIN-SUFFIX,cn-dca1.cfe.uber.com
-DOMAIN-KEYWORD,uber.com
