@@ -1,5 +1,0 @@
-#我在用iPhone的时候发现mimi听力测试这个app走了代理
-#一怒之下就写了这个规则集
-DOMAIN-SUFFIX,api-eu.mimi.io
-DOMAIN-SUFFIX,api-storage.mimi.io
-DOMAIN-SUFFIX,api-eu.mixpanel.com
