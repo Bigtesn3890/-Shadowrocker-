@@ -8,6 +8,7 @@ G为优秀
 A为良好
 D为逊色
 F为狗屎
+X为停运
 
 价格：价格够便宜会得分
 流量：机场流量越多易得分
@@ -28,7 +29,10 @@ F为狗屎
 妥妥的游戏加速器
 没遇到未解锁情况
 包含部分小众国家
-20250122紧急更新：机场转移为xsus2025.xyz
+评级X
+
+2、xsus2025.xyz
+efcloud老板的朋友开的
 评级S
 
 2、https://starlinkcloud.lol/#/dashboard
@@ -60,7 +64,7 @@ F为狗屎
 部分节点可以玩游戏
 可以玩部分游戏
 部分香港节点不可使用币安
-评级G
+评级S
 
 6、https://dashboard.ouonet.work/dashboard
 11元100GB
