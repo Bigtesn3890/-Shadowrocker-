@@ -35,23 +35,13 @@ X为停运
 efcloud老板的朋友开的
 评级S
 
-2、https://starlinkcloud.lol/#/dashboard
+3、https://starlinkcloud.lol/#/dashboard
 18块钱一个月100GB
 最后一次使用时日本无法使用Abema
 能打游戏
 有直连节点与中转节点
 包含部分小众国家
 评级G
-
-3、https://zhoushuren.me/#/dashboard
-鲁迅旗下的周树人机场，文化人都在用的机场
-最后一次使用时美国部分节点无法使用ChatGPT
-部分节点币安走香港依旧是中国
-最后一次使用是日本部分节点无法使用abema
-有些节点不能打游戏WTF😨
-还挺多国家的，还能回中国
-可以用USDT支付
-评级A
 
 4、https://board.mirror.gtk.pw/#/dashboard
 一坨屎，但能玩游戏
@@ -96,6 +86,16 @@ efcloud老板的朋友开的
 10、https://caiyun.wiki/#/dashboard
 屎
 评级F
+
+11、https://zhoushuren.me/#/dashboard
+鲁迅旗下的周树人机场，文化人都在用的机场
+最后一次使用时美国部分节点无法使用ChatGPT
+部分节点币安走香港依旧是中国
+最后一次使用是日本部分节点无法使用abema
+有些节点不能打游戏WTF😨
+还挺多国家的，还能回中国
+可以用USDT支付
+评级A
 
 我还没用过的机场：
 1、https://11.kle.jp
