@@ -1,4 +1,7 @@
+#Grok
+
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok-v2.x.ai
 DOMAIN-SUFFIX,www.x.ai
 DOMAIN-SUFFIX,xai.chronosphere.io
+DOMAIN-SUFFIX,prodregistryv2.org
