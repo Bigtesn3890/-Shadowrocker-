@@ -1,0 +1,7 @@
+# NAME:StarRail
+# REPO: https://github.com/Bigtesn3890/-Shadowrocker-
+# UPDATED: 2026-03-31 11:27:25
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+DOMAIN-SUFFIX,globaldp-prod-os01.starrails.com
+DOMAIN-SUFFIX,globaldp-prod-os02.starrails.com
