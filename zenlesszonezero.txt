@@ -1,0 +1,10 @@
+# NAME: zenlesszonezero
+# REPO: https://github.com/Bigtesn3890/-Shadowrocker-
+# UPDATED: 2026-03-31 09:44:25
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+
+DOMAIN-SUFFIX,globaldp-prod-os02.zenlesszonezero.com
+DOMAIN-SUFFIX,globaldp-prod-os01.zenlesszonezero.com
+DOMAIN-SUFFIX,prod-gf-jp.zenlesszonezero.com
+DOMAIN-SUFFIX,autopatchos.zenlesszonezero.com
