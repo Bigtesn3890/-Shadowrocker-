@@ -4,3 +4,4 @@
 DOMAIN-SUFFIX,globaldp-prod-os01.starrails.com
 DOMAIN-SUFFIX,globaldp-prod-os02.starrails.com
 DOMAIN-SUFFIX,7wujb5-launches.appsflyersdk.com:443
+IP-CIDR,47.245.183.81/32
