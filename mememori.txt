@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,cdn-mememori.akamaized.net:443
+DOMAIN-SUFFIX,prd1-gl2-api.mememori-boi.com:443
