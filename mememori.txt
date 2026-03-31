@@ -1,0 +1,1 @@
+DOMAIN-SUFFIX,cdn-mememori.akamaized.net:443
