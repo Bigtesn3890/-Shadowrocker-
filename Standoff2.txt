@@ -1,0 +1,7 @@
+IP-ASN,60490,对峙2
+IP-ASN,200350,对峙2
+DOMAIN-SUFFIX,sdkopmetrics-asia.dsp-api.moloco.com,对峙2,pre-matching,extended-matching
+DOMAIN-SUFFIX,analytics-ios-tcp.rayjump.com,对峙2,pre-matching,extended-matching
+DOMAIN-SUFFIX,observe-tcp.mintegral.net,对峙2,pre-matching,extended-matching
+DOMAIN-SUFFIX,rt.applovin.com,对峙2,pre-matching,extended-matching
+DOMAIN-SUFFIX,fra01.metrics.ms.boltgaming.io,对峙2,pre-matching,extended-matching
