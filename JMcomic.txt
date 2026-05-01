@@ -24,3 +24,7 @@ DOMAIN-SUFFIX,www.cdngwc.cc
 DOMAIN-SUFFIX,www.cdngwc.club
 DOMAIN-SUFFIX,www.cdnhjk.cc
 DOMAIN-SUFFIX,cdn-msp3.jmdanjonproxy.vip
+DOMAIN-SUFFIX,cdn-msp.jmapiproxy3.cc
+DOMAIN-SUFFIX,a.chnsrv.com
+DOMAIN-SUFFIX,cdn-msp.jmdanjonproxy.vip
+DOMAIN-SUFFIX,s3t3d2y1.afcdn.net
