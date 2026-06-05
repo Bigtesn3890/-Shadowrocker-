@@ -1,0 +1,5 @@
+#OKX欧易
+
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,wspriokx.com
+DOMAIN-SUFFIX,static.okx.com
