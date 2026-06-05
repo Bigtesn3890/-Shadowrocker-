@@ -3,3 +3,4 @@
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,wspriokx.com
 DOMAIN-SUFFIX,static.okx.com
+DOMAIN-SUFFIX,www.okx.com
