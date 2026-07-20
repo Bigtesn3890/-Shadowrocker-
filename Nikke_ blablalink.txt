@@ -7,4 +7,4 @@ DOMAIN-SUFFIX,sg-cdn.blablalink.com
 DOMAIN-SUFFIX,api.blablalink.com
 DOMAIN-SUFFIX,rumt-sg.com
 DOMAIN-SUFFIX,www.blablalink.com
-DOMAIN-KEYWORD,blablalink.com
+DOMAIN-SUFFIX,Na-report.playerinfinite.com:443
