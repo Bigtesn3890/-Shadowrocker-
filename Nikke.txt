@@ -1,1 +1,1 @@
-DOMAIN-DUFFIX,fuuf4y.launches.appsflyersdk.com
+DOMAIN-SSUFFIX,fuuf4y.launches.appsflyersdk.com
