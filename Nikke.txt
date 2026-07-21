@@ -1,1 +1,3 @@
+#NIKKE,Plus,20260721
+
 DOMAIN-SUFFIX,fuuf4y.launches.appsflyersdk.com
