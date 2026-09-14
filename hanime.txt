@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,vdownload.hembed.com
