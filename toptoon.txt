@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,rtk.toptoon.net
+DOMAIN-SUFFIX,www.toptoon.net
